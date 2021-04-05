@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1051717216227",
+    "firebase_url": "https://cutewear-ye-default-rtdb.firebaseio.com",
+    "project_id": "cutewear-ye",
+    "storage_bucket": "cutewear-ye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051717216227:android:126b64c8fb1da34979a2d6",
+        "android_client_info": {
+          "package_name": "CuteWear.co"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051717216227-3huj6bj4mf7esjra5fm1mufana12rso4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPw49lqAnu74EvHz6m25lo7Bvo6t3QNgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051717216227-3huj6bj4mf7esjra5fm1mufana12rso4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051717216227:android:acdd19274db6336079a2d6",
+        "android_client_info": {
+          "package_name": "Cutewear.co"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051717216227-3huj6bj4mf7esjra5fm1mufana12rso4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPw49lqAnu74EvHz6m25lo7Bvo6t3QNgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051717216227-3huj6bj4mf7esjra5fm1mufana12rso4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6684842846636855~3731926871"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051717216227:android:67b02b24442a217679a2d6",
+        "android_client_info": {
+          "package_name": "com.CuteWear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051717216227-3huj6bj4mf7esjra5fm1mufana12rso4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPw49lqAnu74EvHz6m25lo7Bvo6t3QNgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051717216227-3huj6bj4mf7esjra5fm1mufana12rso4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
